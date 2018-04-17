@@ -1,0 +1,7 @@
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\bin\Debug\DenatiKata.exe.config
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\bin\Debug\DenatiKata.exe
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\bin\Debug\DenatiKata.pdb
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\obj\Debug\DenatiKata.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\obj\Debug\DenatiKata.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\obj\Debug\DenatiKata.exe
+C:\DotNetProjects\DenatiKata\VinSearch2\DenatiKata\DenatiKata\obj\Debug\DenatiKata.pdb
